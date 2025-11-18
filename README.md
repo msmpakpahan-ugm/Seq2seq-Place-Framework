@@ -184,12 +184,6 @@ When adding new modules to this library:
 
 ---
 
-## License
-
-[Add your license information here]
-
----
-
 ## Contact
 
-[Add contact information or repository links here]
+Michael Moses, msmpakpahan@gmail.com
